@@ -25,7 +25,9 @@
 ## Description
 
 <!-- [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. -->
-<h3>Car-Value project</h3>
+
+### Car-Value project
+
 - A backend Nestjs project designed to anticipate a car price for given car characteristics such as make, model, year, mileage, longtude and latitude (for price differs across countries and cities).
 - The anticipation is determined based on pre-stored data of car prices, the application searches for top 3 cars that have close characteristics values to the given car, and get thier price average
 - The pre-stored data of car prices is given by users that make reports of their car characteristics and the price they actually sold their car for.
