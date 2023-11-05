@@ -34,6 +34,7 @@
 - Users reports is NOT approved by default, only admins can approve or disapprove a report.
 - The project has authentication and authorization system.
 - In project files, there are 2 .http files that contain all possiple client requests.
+- **Important Note:** the project DB doesnot contain any car data. thus, any request to get a car price will get a response of undefined.
 
 ## Installation
 
